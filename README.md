@@ -8,3 +8,6 @@
 
 # Support & Help
 https://discord.gg/5dqQbpjsM5
+
+# Owner
+KingKefa 
