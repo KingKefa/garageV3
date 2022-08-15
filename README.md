@@ -5,3 +5,6 @@
 4. Go into the settings/config.lua to edit it for your personal use
 5. Go into server.cfg and type "start kingkefa_garageV3" & "start kingkefa_impoundV2"
 6. You are ready to go!
+
+# Support & Help
+https://discord.gg/5dqQbpjsM5
